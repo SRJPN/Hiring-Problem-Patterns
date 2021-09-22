@@ -1,0 +1,15 @@
+{
+  "name": "hiring-bookmark-problem",
+  "version": "1.0.0",
+  "description": "Given a string with zeros and ones and given a pattern, you need to count the number of matching pattern in the string. There can be any number of characters between the patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./*.test.js"
+  },
+  "author": "Sooraj Parameswaran",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
